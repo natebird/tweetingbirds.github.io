@@ -6,7 +6,7 @@ permalink: /the-birds/
 
 ![IMG_0287*]({{ site.baseurl }}/assets/IMG_0287-300x300.jpg "nate")
 
-**Nate…** A total techie. A lover of Apple. Fruit junkie. Logical.
+**Nate…** A total techie. A lover of Apple. Fruit connoisseur. Logical.
 
 ![IMG_4758*]({{ site.baseurl }}/assets/IMG_4758-300x300.jpg "tiffany")
 
