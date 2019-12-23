@@ -1,0 +1,4 @@
+name: Tweeting Birds
+markdown: kramdown
+permalink: /:year/:month/:title
+url: http://tweetingbirds.com
